@@ -9,6 +9,7 @@
 		"express": "4.13.x",
 		"cfenv": "1.0.x",
 		"socket.io":"*"
+		"watson-developer-cloud":"*"
 	},
 	"repository": {},
 	"engines": {
